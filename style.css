@@ -1,0 +1,47 @@
+.bank-title{
+    text-align: center;
+}
+.sign-in-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+}
+
+.log-in-area{
+    margin-top: 100px;
+}
+.transection-area{
+    display: none;
+    margin-top: 100px;
+}
+.deposite{
+    height: 200px;
+    background-color: tomato;
+    box-shadow: 5px 5px 10px rgb(170, 62, 43);
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+}
+.withdraw{
+    height: 200px;
+    background-color: blue;
+    box-shadow: 5px 5px 10px rgb(0, 0, 126);
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+}
+.balance{
+    height: 200px;
+    background-color: green;
+    box-shadow: 5px 5px 10px rgb(0, 73, 0);
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+}
+
+.inputbox{
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
